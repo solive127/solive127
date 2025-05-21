@@ -1,13 +1,15 @@
-<h1>Hi, I'm Sarah Oliver! <br/><a href="https://github.com/joshmadakor1">Data Scientist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Analyst</a>, 
+<h1>Hi, I'm Sarah Oliver! <br/><a href="https://github.com/joshmadakor1">Data Scientist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Analyst</a>,
+
+    
+<h2>Awards and Certifications</h2>
+  - <b> [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)<b>
 
 <h2>👨‍💻 Data Analytics and Visualization Projects:</h2>
 
-- <b>Awards and Certifications</b>
-  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
 - <b>Visual Basic in Excel</b>
   - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
 - <b>Power BI </b>
-  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md) <b><i>
+  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md) <b>
 - <b>SQL</b>
   - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
   - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
