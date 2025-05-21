@@ -3,18 +3,18 @@
 <h2>👨‍💻 Data Analytics and Visualization Projects:</h2>
 
 - <b>Awards and Certifications</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
 - <b>Visual Basic in Excel</b>
-  - [Visual Basic Update Files Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
+  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
 - <b>Power BI </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
+  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md) <b><i>
 - <b>SQL</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
+  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
+  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
+  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -24,10 +24,10 @@
 
 
 
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/sarah-oliver-079100167/)
+[linkedin]: [(https://www.linkedin.com/in/sarah-oliver-079100167/]
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
