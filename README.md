@@ -3,7 +3,7 @@
     
 <h2> <img src="https://i.imgur.com/IsL93kP.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Awards and Certifications</h2>
 
-  - <b>[Ashland Award and Certifications](https://github.com/solive127/VisualBasic/blob/main/README.md)
+  - <b>[Ashland Award and Certifications](https://github.com/solive127/AwardCertification/blob/main/README.md)
 
 <h2>👨‍💻 Data Analytics and Visualization Projects:</h2>
 
