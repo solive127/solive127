@@ -23,7 +23,7 @@
 - <b>Visual Basic in Excel</b>
   - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
 - <b>Power BI and SQL </b>
-  - [Power BI Dashboard and Organized Data in MySQL](https://github.com/solive127/VisualBasic/blob/main/README.md) <b>
+  - [Power BI Dashboard and Organized Data in MySQL](https://github.com/solive127/PowerBI_SQL) <b>
 
 
 
