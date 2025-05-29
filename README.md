@@ -7,7 +7,7 @@
 
 <h2> <img src="https://i.imgur.com/HEAh1ps.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Last Manager Review </h2>
 
-  - <b>[Last Manager Reivew at GM](https://github.com/solive127/AwardCertification/blob/main/README.md)
+  - <b>[Last Manager Reivew at GM](https://github.com/solive127/Review)
 
 <h2>👨‍💻 Data Analytics and Visualization Projects:</h2>
 
