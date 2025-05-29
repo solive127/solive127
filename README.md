@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sarah Oliver! <br/><a>Data Scientist</a>, <a>Data Analyst</a>,
+<h1>Hi, I'm Sarah Oliver! <br/><a>Data Scientist</a>, <a>Data Analyst</a>
 
     
 <h2> <img src="https://i.imgur.com/IsL93kP.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Awards and Certifications</h2>
