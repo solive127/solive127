@@ -13,6 +13,11 @@
 
   - <b>[Recognition](https://github.com/solive127/Recognition)
 
+<h2><img src="https://i.imgur.com/fvVOcPP.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Projects:</h2>
+
+- <b>3 Million Dollar Bulk Tank and Truck Loading Project</b>
+  - [Bulk Tank and Truck Loading Project](https://github.com/solive127/VisualBasic/blob/main/README.md)
+
 <h2>👨‍💻 Data Analytics and Visualization Projects:</h2>
 
 - <b>Visual Basic in Excel</b>
