@@ -23,7 +23,7 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> <img src="https://i.imgur.com/JoaDL8B.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Connect with Me: </h2>
 
 
 <h2> <img src="https://i.imgur.com/L0m52Un.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> LinkedIn</h2>
