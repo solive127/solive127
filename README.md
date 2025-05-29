@@ -17,15 +17,10 @@
 
 - <b>Visual Basic in Excel</b>
   - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
-- <b>Power BI </b>
-  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md) <b>
-- <b>SQL</b>
-  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
-  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
-  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
-  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
-- <b>Python</b>
-  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
+- <b>Power BI and SQL </b>
+  - [Power BI Dashboard and Organized Data in MySQL](https://github.com/solive127/VisualBasic/blob/main/README.md) <b>
+
+
 
 
 <h2> 🤳 Connect with me:</h2>
