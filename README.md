@@ -17,6 +17,8 @@
 
 - <b>3 Million Dollar Bulk Tank and Truck Loading Project</b>
   - [Bulk Tank and Truck Loading Project](https://github.com/solive127/TankTruck)
+- <b>GM Test Station Continuous Improvement Project</b>
+  - [GM Test Station Continuous Improvement Project](https://github.com/solive127/TankTruck)
 
 <h2>👨‍💻 Data Analytics and Visualization Projects:</h2>
 
