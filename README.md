@@ -32,7 +32,7 @@
 - <b>TVA Internship</b>
   - [TVA Internship](https://github.com/solive127/TVAIntern)
 - <b>BioDiesel </b>
-  - [BioDiesel Project](https://github.com/solive127/PowerBI_SQL) <b>
+  - [BioDiesel Project](https://github.com/solive127/BioDiesel) <b>
 - <b>Avocado Oil Extrction</b>
   - [Avocado Oil Extraction Project](https://github.com/solive127/VisualBasic/blob/main/README.md)
 - <b>Tray Switch </b>
