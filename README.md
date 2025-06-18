@@ -27,7 +27,7 @@
 - <b>Power BI and SQL </b>
   - [Power BI Dashboard and Organized Data in MySQL](https://github.com/solive127/PowerBI_SQL) <b>
 
-<h2><img src="https://i.imgur.com/ldEAXwU.jpeg" alt="Award Icon" style="height: 1em; vertical-align: middle;"> College Projects and Internship:</h2>
+<h2><img src="https://i.imgur.com/cT8Fqlz.jpeg" alt="Award Icon" style="height: 1em; vertical-align: middle;"> College Projects and Internship:</h2>
 
 - <b>TVA Internship</b>
   - [TVA Internship](https://github.com/solive127/TVAIntern)
