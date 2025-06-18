@@ -36,7 +36,7 @@
 - <b>Avocado Oil Extrction</b>
   - [Avocado Oil Extraction Project](https://github.com/solive127/Avocado)
 - <b>Tray Switch </b>
-  - [Tray Switch Project](https://github.com/solive127/PowerBI_SQL) <b>
+  - [Tray Switch Project](https://github.com/solive127/TraySwitch) <b>
 
 
 <h2> <img src="https://i.imgur.com/JoaDL8B.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Connect with Me: </h2>
