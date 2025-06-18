@@ -30,7 +30,7 @@
 <h2>👨‍💻 College Projects and Internship:</h2>
 
 - <b>TVA Internship</b>
-  - [TVA Internship](https://github.com/solive127/VisualBasic/blob/main/README.md)
+  - [TVA Internship](https://github.com/solive127/TVAIntern)
 - <b>BioDiesel </b>
   - [BioDiesel Project](https://github.com/solive127/PowerBI_SQL) <b>
 - <b>Avocado Oil Extrction</b>
