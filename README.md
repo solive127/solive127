@@ -27,7 +27,16 @@
 - <b>Power BI and SQL </b>
   - [Power BI Dashboard and Organized Data in MySQL](https://github.com/solive127/PowerBI_SQL) <b>
 
+<h2>👨‍💻 College Projects and Internship:</h2>
 
+- <b>TVA Internship</b>
+  - [TVA Internship](https://github.com/solive127/VisualBasic/blob/main/README.md)
+- <b>BioDiesel </b>
+  - [BioDiesel Project](https://github.com/solive127/PowerBI_SQL) <b>
+- <b>Avocado Oil Extrction</b>
+  - [Avocado Oil Extraction Project](https://github.com/solive127/VisualBasic/blob/main/README.md)
+- <b>Tray Switch </b>
+  - [Tray Switch Project](https://github.com/solive127/PowerBI_SQL) <b>
 
 
 <h2> <img src="https://i.imgur.com/JoaDL8B.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Connect with Me: </h2>
