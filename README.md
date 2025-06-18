@@ -33,7 +33,7 @@
   - [TVA Internship](https://github.com/solive127/TVAIntern)
 - <b>BioDiesel </b>
   - [BioDiesel Project](https://github.com/solive127/BioDiesel) <b>
-- <b>Avocado Oil Extrction</b>
+- <b>Avocado Oil Extraction</b>
   - [Avocado Oil Extraction Project](https://github.com/solive127/Avocado)
 - <b>Tray Switch </b>
   - [Tray Switch Project](https://github.com/solive127/TraySwitch) <b>
