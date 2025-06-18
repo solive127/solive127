@@ -34,7 +34,7 @@
 - <b>BioDiesel </b>
   - [BioDiesel Project](https://github.com/solive127/BioDiesel) <b>
 - <b>Avocado Oil Extrction</b>
-  - [Avocado Oil Extraction Project](https://github.com/solive127/VisualBasic/blob/main/README.md)
+  - [Avocado Oil Extraction Project](https://github.com/solive127/Avocado)
 - <b>Tray Switch </b>
   - [Tray Switch Project](https://github.com/solive127/PowerBI_SQL) <b>
 
