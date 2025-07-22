@@ -22,9 +22,13 @@
 
 <h2>👨‍💻 Data Analytics and Visualization Projects:</h2>
 
-- <b>Visual Basic in Excel</b>
+- <b>Visual Basic in Excel Project</b>
   - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
-- <b>Power BI and SQL </b>
+- <b>Power BI and SQL Project </b>
+  - [Power BI Dashboard and Organized Data in MySQL](https://github.com/solive127/PowerBI_SQL) <b>
+- <b>Microsoft Fabric Project </b>
+  - [Power BI Dashboard and Organized Data in MySQL](https://github.com/solive127/PowerBI_SQL) <b>
+- <b>Excel Project </b>
   - [Power BI Dashboard and Organized Data in MySQL](https://github.com/solive127/PowerBI_SQL) <b>
 
 <h2><img src="https://i.imgur.com/cT8Fqlz.jpeg" alt="Award Icon" style="height: 1em; vertical-align: middle;"> College Projects and Internship:</h2>
