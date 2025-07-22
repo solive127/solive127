@@ -27,7 +27,7 @@
 - <b>Power BI and SQL Project </b>
   - [Power BI Dashboard and Organized Data in MySQL](https://github.com/solive127/PowerBI_SQL) <b>
 - <b>Microsoft Fabric Project </b>
-  - [Microsoft Fabric Project](https://github.com/solive127/Fabric/blob/main/README.md) <b>
+  - [Microsoft Fabric Project](https://github.com/solive127/Fabric) <b>
 - <b>Excel Project </b>
   - [Excel Data Project](https://github.com/solive127/ExcelData) <b>
 
