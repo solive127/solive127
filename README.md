@@ -3,7 +3,7 @@
     
 <h2> <img src="https://i.imgur.com/1JMKEiC.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Awards and Certifications</h2>
 
-  - <b>[Ashland Award and Certifications](https://github.com/solive127/AwardCertification/blob/main/README.md)
+  - <b>[Ashland Award and Certifications](https://github.com/solive127/AwardCertification)
 
 <h2> <img src="https://i.imgur.com/rpzWZ7E.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Last Manager Review </h2>
 
