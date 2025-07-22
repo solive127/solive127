@@ -27,9 +27,9 @@
 - <b>Power BI and SQL Project </b>
   - [Power BI Dashboard and Organized Data in MySQL](https://github.com/solive127/PowerBI_SQL) <b>
 - <b>Microsoft Fabric Project </b>
-  - [Power BI Dashboard and Organized Data in MySQL](https://github.com/solive127/PowerBI_SQL) <b>
+  - [Microsoft Fabric Project](https://github.com/solive127/Fabric/blob/main/README.md) <b>
 - <b>Excel Project </b>
-  - [Power BI Dashboard and Organized Data in MySQL](https://github.com/solive127/PowerBI_SQL) <b>
+  - [Excel Data Project](https://github.com/solive127/PowerBI_SQL) <b>
 
 <h2><img src="https://i.imgur.com/cT8Fqlz.jpeg" alt="Award Icon" style="height: 1em; vertical-align: middle;"> College Projects and Internship:</h2>
 
