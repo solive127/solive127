@@ -1,7 +1,7 @@
 <h1>Hi, I'm Sarah Oliver! <br/><a>Data Scientist</a>, <a>Data Analyst</a>, </a>Engineer</h1>
 
     
-<h2> <img src="https://i.imgur.com/IsL93kP.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Awards and Certifications</h2>
+<h2> <img src="https://i.imgur.com/1JMKEiC.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Awards and Certifications</h2>
 
   - <b>[Ashland Award and Certifications](https://github.com/solive127/AwardCertification/blob/main/README.md)
 
