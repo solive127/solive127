@@ -23,7 +23,7 @@
 <h2>👨‍💻 Data Analytics and Visualization Projects:</h2>
 
 - <b>Visual Basic in Excel Project</b>
-  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic/blob/main/README.md)
+  - [Visual Basic File Update Project for Accounting](https://github.com/solive127/VisualBasic)
 - <b>Power BI and SQL Project </b>
   - [Power BI Dashboard and Organized Data in MySQL](https://github.com/solive127/PowerBI_SQL) <b>
 - <b>Microsoft Fabric Project </b>
