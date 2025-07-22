@@ -13,7 +13,7 @@
 
   - <b>[Recognition](https://github.com/solive127/Recognition)
 
-<h2><img src="https://i.imgur.com/fvVOcPP.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Projects:</h2>
+<h2><img src="https://i.imgur.com/Z7YU5Im.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Projects:</h2>
 
 - <b>3 Million Dollar Bulk Tank and Truck Loading Project</b>
   - [Bulk Tank and Truck Loading Project](https://github.com/solive127/TankTruck)
