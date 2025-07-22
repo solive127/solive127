@@ -39,10 +39,10 @@
   - [Tray Switch Project](https://github.com/solive127/TraySwitch) <b>
 
 
-<h2> <img src="https://i.imgur.com/JoaDL8B.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Connect with Me: </h2>
+<h2> <img src="https://i.imgur.com/qb3tjgE.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Connect with Me: </h2>
 
 
-<h2> <img src="https://i.imgur.com/L0m52Un.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> LinkedIn</h2>
+<h2> <img src="https://i.imgur.com/vGlbDKT.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> LinkedIn</h2>
 
   - <b>[LinkedIn](https://www.linkedin.com/in/sarah-oliver-079100167/)
 
