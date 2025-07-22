@@ -5,7 +5,7 @@
 
   - <b>[Ashland Award and Certifications](https://github.com/solive127/AwardCertification/blob/main/README.md)
 
-<h2> <img src="https://i.imgur.com/HEAh1ps.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Last Manager Review </h2>
+<h2> <img src="https://i.imgur.com/rpzWZ7E.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Last Manager Review </h2>
 
   - <b>[Last Manager Reivew at GM](https://github.com/solive127/Review)
 
