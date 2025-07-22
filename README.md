@@ -29,7 +29,7 @@
 - <b>Microsoft Fabric Project </b>
   - [Microsoft Fabric Project](https://github.com/solive127/Fabric/blob/main/README.md) <b>
 - <b>Excel Project </b>
-  - [Excel Data Project](https://github.com/solive127/PowerBI_SQL) <b>
+  - [Excel Data Project](https://github.com/solive127/ExcelData/blob/main/README.md) <b>
 
 <h2><img src="https://i.imgur.com/cT8Fqlz.jpeg" alt="Award Icon" style="height: 1em; vertical-align: middle;"> College Projects and Internship:</h2>
 
