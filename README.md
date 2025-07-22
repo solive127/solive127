@@ -9,7 +9,7 @@
 
   - <b>[Last Manager Reivew at GM](https://github.com/solive127/Review)
 
-<h2> <img src="https://i.imgur.com/zAH08ky.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Recognition </h2>
+<h2> <img src="https://i.imgur.com/8WZnuPU.png" alt="Award Icon" style="height: 1em; vertical-align: middle;"> Recognition </h2>
 
   - <b>[Recognition](https://github.com/solive127/Recognition)
 
